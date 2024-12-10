@@ -7,7 +7,7 @@ import boto3
 import time
 
 SPORT = 'baseball_mlb'
-API_KEY = '3a11f3f8e5ec90e37fe2d852f25294e5'
+API_KEY = ''
 
 # 2023 MLB regular season schedule
 SEASON_START_DATE = datetime(2023, 3, 30)
